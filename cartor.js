@@ -1,3 +1,4 @@
+//conversion de la carte en objet
 
 var mapb = L.map('map').setView([48.44662504010023, 1.4896774291992188], 10);
 		L.tileLayer('https://{s}.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiaW5rc2t1bCIsImEiOiJGbkIzS0tzIn0.TN2mHvnJddvOViOBxdPRbw', {
